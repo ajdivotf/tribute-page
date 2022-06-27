@@ -1,0 +1,65 @@
+body{
+  font-family: Segoe UI;
+  color: #3b3b3b;
+}
+header{
+  text-align: center;
+}
+h1{
+  padding-top: 35px;
+}
+#img-div{
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+#tribute-picture{
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: white;
+  border: solid 10px white;
+}
+img{
+  display: block;
+  max-width: 100%;
+}
+#img-caption{
+  margin-top: 10px;
+}
+main{
+  background-color: #f2f2f2;
+  margin: 30px auto;
+  border-radius: 5px;
+}
+.bold{
+  font-weight: bold;
+}
+.center{
+  text-align: center;
+  padding: 20px;
+}
+ul{
+  width: 80%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul>li{
+  margin: 15px 0;
+}
+.quote{
+  width: 80%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+#tribute-link:visited{
+  color: #3b3b3b;
+}
+#link{
+  padding-bottom: 40px;
+}
